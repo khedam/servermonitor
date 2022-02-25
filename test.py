@@ -1,5 +1,4 @@
 import wmi
-<<<<<<< HEAD
 import os
 class Server:
     Hersteller    = "test"
@@ -8,16 +7,6 @@ class Server:
     Prozesse      = "test"
     Systemtyp     = "test"
     Systemfamilie = "test"
-=======
- 
-class Server:
-    Hersteller    = test
-    Modelname     = test
-    Systemname    = test
-    Prozesse      = test
-    Systemtyp     = test
-    Systemfamilie = test
->>>>>>> 3b5f4f1d6d2a966242b69983c25a04f9f887c650
 
 
 
